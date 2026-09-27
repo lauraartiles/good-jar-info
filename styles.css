@@ -153,6 +153,8 @@ h3 { margin: 0 0 8px; font-size: 1.05rem; line-height: 1.3; }
   font-weight: 800;
 }
 
+.feature-list article > span img { display: block; }
+
 .privacy-callout,
 .launch-callout {
   display: grid;
